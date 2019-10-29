@@ -1,2 +1,2 @@
 # EduAR
-Interactive Education application using Unity. ARFoundation vs Vuforia.
+This is the Vuforia version of the project we have created.
